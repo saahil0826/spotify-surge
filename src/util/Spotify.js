@@ -5,7 +5,7 @@ const spotifyUserProfileAPI = 'https://api.spotify.com/v1/me';
 // @Reviewer: what's the preferred way to store urls with dynamic content?
 const spotifyPlaylistAPI = 'https://api.spotify.com/v1/users/${userId}/playlists';
 const spotifyPlaylistTracksAPI = 'https://api.spotify.com/v1/users/${userId}/playlists/${playlistId}/tracks';
-const spotifyRedirectUrl = "http://localhost:3000";
+const spotifyRedirectUrl = "https://react-jam.herokuapp.com/";
 
 let accessToken;
 let expiresIn;
