@@ -1,5 +1,5 @@
 // TODO the clientId should not be committed to a public repo, so remove it and load it from a file?
-const clientId = "https://github.com/saahil0826/spot";
+const clientId = "345a0b244edd4647945397f820a1ae4a";
 const spotifySearchAPI = 'https://api.spotify.com/v1/search';
 const spotifyUserProfileAPI = 'https://api.spotify.com/v1/me';
 // @Reviewer: what's the preferred way to store urls with dynamic content?
