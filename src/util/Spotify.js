@@ -1,5 +1,5 @@
-const clientId = '0851acd12944496398752b7378093876'; // Insert client ID here.
-const redirectUri = "https://react-jam.herokuapp.com/"; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
+const clientId = '09ff75b25026456094b1d0c0cd5f0a37'; // Insert client ID here.
+const redirectUri = "https://react-jamming0826.surge.sh/"; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
 const Spotify = {
@@ -75,4 +75,3 @@ const Spotify = {
 };
 
 export default Spotify;
-
